@@ -30,7 +30,7 @@ Node.js
 
 Express.js
 
-(Add your database here, e.g., MongoDB, PostgreSQL, MySQL)
+MySQL
 
 ⚙️ Installation and Local Setup
 
